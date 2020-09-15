@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPLUSPLUS_Calculator_Console.dir/scratch.cpp.o  -o CPLUSPLUS_Calculator_Console 

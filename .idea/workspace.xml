@@ -30,7 +30,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ec72c0-0fe6-48b7-8013-ef79b89eb4de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CPLUSPLUS_Calculator_Console.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CPLUSPLUS_Calculator_Console.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,9 +82,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -100,6 +99,7 @@
       <workItem from="1600197066564" duration="992000" />
       <workItem from="1600198435387" duration="1096000" />
       <workItem from="1600203012946" duration="3320000" />
+      <workItem from="1600274434727" duration="1748000" />
     </task>
     <servers />
   </component>
@@ -123,26 +123,30 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="211" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1600198683731" />
+    <state x="436" y="199" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600288490089">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="436" y="199" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1373.873@67.27.1373.873" timestamp="1600288490089" />
     <state x="733" y="61" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600202988531">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="733" y="61" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1600202988531" />
-    <state width="1327" height="219" key="GridCell.Tab.0.bottom" timestamp="1600210302750">
+    <state width="1327" height="219" key="GridCell.Tab.0.bottom" timestamp="1600288510888">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1600210302750" />
-    <state width="1327" height="219" key="GridCell.Tab.0.center" timestamp="1600210302747">
+    <state width="1327" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1600288510888" />
+    <state width="1327" height="219" key="GridCell.Tab.0.center" timestamp="1600288510887">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1600210302747" />
-    <state width="1327" height="219" key="GridCell.Tab.0.left" timestamp="1600210302744">
+    <state width="1327" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1600288510887" />
+    <state width="1327" height="219" key="GridCell.Tab.0.left" timestamp="1600288510887">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1600210302744" />
-    <state width="1327" height="219" key="GridCell.Tab.0.right" timestamp="1600210302747">
+    <state width="1327" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1600288510887" />
+    <state width="1327" height="219" key="GridCell.Tab.0.right" timestamp="1600288510887">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1600210302747" />
+    <state width="1327" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1600288510887" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1600203000228">
       <screen x="67" y="27" width="1373" height="873" />
     </state>

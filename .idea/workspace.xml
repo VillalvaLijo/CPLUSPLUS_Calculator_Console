@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="CPLUSPLUS_Calculator_Console" targetName="CPLUSPLUS_Calculator_Console" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -28,8 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ec72c0-0fe6-48b7-8013-ef79b89eb4de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CPLUSPLUS_Calculator_Console.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CPLUSPLUS_Calculator_Console.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -70,9 +73,19 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPLUSPLUS_Calculator_Console" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPLUSPLUS_Calculator_Console" TARGET_NAME="CPLUSPLUS_Calculator_Console" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPLUSPLUS_Calculator_Console" RUN_TARGET_NAME="CPLUSPLUS_Calculator_Console">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -86,6 +99,7 @@
       <updated>1600197064561</updated>
       <workItem from="1600197066564" duration="992000" />
       <workItem from="1600198435387" duration="1096000" />
+      <workItem from="1600203012946" duration="3320000" />
     </task>
     <servers />
   </component>
@@ -113,6 +127,22 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="733" y="61" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1600202988531" />
+    <state width="1327" height="219" key="GridCell.Tab.0.bottom" timestamp="1600210302750">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1600210302750" />
+    <state width="1327" height="219" key="GridCell.Tab.0.center" timestamp="1600210302747">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1600210302747" />
+    <state width="1327" height="219" key="GridCell.Tab.0.left" timestamp="1600210302744">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1600210302744" />
+    <state width="1327" height="219" key="GridCell.Tab.0.right" timestamp="1600210302747">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1600210302747" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1600203000228">
       <screen x="67" y="27" width="1373" height="873" />
     </state>

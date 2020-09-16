@@ -9,10 +9,20 @@ int main()
     int j = 6;
     int g;
     g = i+ j;
+    //create a cin that reads in int or float or double and  then reads in the operation an
+    //selects it.
 
-    cout << "I is equal to: "<< i << endl;
-    cout << "J is equal to: "<< j << endl;
-    cout << "G is equal to I + J: "<< g << endl;
+    int a, b, sum;
+
+    cout << "Enter a int: ";
+    cin >> a;
+    cout << endl;
+    cout << "Enter another int: ";
+    cin >> b;
+    cout << endl;
+
+    sum = a+b;
+    cout << "the sum of a and b is = "<<sum<<endl;
 
     return 0;
 }
